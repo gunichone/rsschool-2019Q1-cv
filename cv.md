@@ -9,5 +9,5 @@
      };
 ```
 6. **Experience: About a year**
-7. **Education: specialized secondar**
-8. **English level: pre-intermediat**
+7. **Education: specialized secondary**
+8. **English level: pre-intermediate**
