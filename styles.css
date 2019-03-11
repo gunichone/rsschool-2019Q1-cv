@@ -20,7 +20,10 @@ p:first-letter {
 .contacts {
     font-weight: bold;
   }
-.summary {
+.summary,
+.experience,
+.education,
+.language {
     font-style: italic;
   }
 .code {
