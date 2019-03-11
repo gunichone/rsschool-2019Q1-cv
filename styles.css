@@ -1,0 +1,18 @@
+img {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 250px;
+  }
+  div {
+      max-width: 1024px;
+      background-color: #F8F8FF;
+      margin: auto;
+      text-align: center;
+      border: 1px solid black;
+  }
+  p:first-letter {
+      color: green;
+      font-weight: 850px;
+      font-size: 18px;
+  }
